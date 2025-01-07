@@ -136,11 +136,11 @@ The simulator supports three distinct scenarios, each designed to address specif
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YassienTawfikk/2D-Beamforming-Simulator.git
+   git clone https://github.com/madonna-mosaad/Beamforming-Simulator.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd 2D-Beamforming-Simulator
+   cd Beamforming-Simulator
    ```
 3. Install the required dependencies:
    ```bash
@@ -157,8 +157,8 @@ The simulator supports three distinct scenarios, each designed to address specif
 
 This project wouldn’t have been possible without the hard work and collaboration of my amazing team. Huge shout-out to:
 
-- [Nancy Mahmoud](https://github.com/nancymahmoud1)  
 - [Madonna Mosaad](https://github.com/madonna-mosaad)  
+- [Nancy Mahmoud](https://github.com/nancymahmoud1)  
 - [Yassien Tawfik](https://github.com/YassienTawfikk)
 
 ---
@@ -167,5 +167,5 @@ This project wouldn’t have been possible without the hard work and collaborati
 
 For any questions or suggestions, feel free to reach out:
 
-- **Name**: Yassien Tawfik  
-- **Email**: [Yassien.m.m.tawfik@gmail.com](mailto:Yassien.m.m.tawfik@gmail.com)
+- **Name**: Madonna Mosaad
+- **Email**: [Madonna.Mosaad03@eng-st.cu.edu.eg](mailto:Madonna.Mosaad03@eng-st.cu.edu.eg)
